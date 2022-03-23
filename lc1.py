@@ -12,7 +12,7 @@ print(squares)
 
 list1 = [3, 4, 5]
 multiply = [item * 3 for item in list1]
-print(multiplied)
+print(multiply)
 
 # word manipulation
 listofWords = ["this", "is", "a", "list", "of", "words"]
